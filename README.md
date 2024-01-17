@@ -1,2 +1,3 @@
 # TestProject
-This is a test. Hello World. This is branch 1.
+This is a test. Hello World. This is branch resolved merge conflict.
+
